@@ -1,0 +1,94 @@
+html {
+    position: relative;
+    height: 100%;
+}
+body{
+    height: 100vh;
+}
+.nav-item{
+    font-size: larger;
+    color:rgb(14, 13, 13);
+}
+.nav-item:hover{
+    font-size: larger;
+    color:#304CFD;
+
+}
+.active{
+    font-size: larger;
+    color:#304CFD;
+}
+.nav{
+    padding-top: 30px;
+}
+.navbar-brand{
+    font-size: 30px;
+    color:rgb(14, 13, 13);
+}
+.navbar-brand:hover{
+    font-style: larger;
+    color:rgb(14, 13, 13);
+}
+.box{
+    padding-top: 120px;
+    padding-left: 80px;
+}
+.home-image{
+    width: 640px;
+    padding-right: 10px;
+    float: right;
+}
+.home-container{
+    padding-top: 50px;
+}
+.social-share ul li{
+    display: inline;
+    padding-left: 15px;
+    margin-top: 10px;
+}
+.box-social{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border-radius: 10px;
+}
+.social-link{
+    position:relative;
+    top:28%;
+    left:35%;
+}
+.social-facebook{
+    position:relative;
+    top:30%;
+    left:40%;
+}
+.fa-facebook:hover{
+    color:#304CFD;
+    text-decoration: none;
+}
+.fa-instagram:hover{
+    color:#304CFD;
+    text-decoration: none;
+}
+.fa-twitter:hover{
+    color:#304CFD;
+    text-decoration: none;
+}
+.fa-github:hover{
+    color:#304CFD;
+    text-decoration: none;
+}
+.fa-linkedin:hover{
+    color:#304CFD;
+    text-decoration: none;
+}
+.row-social{
+    margin-top: 120px;
+    margin-left: 100px !important;
+}
+.social-title{
+    font-size: 18px;
+    margin-left: 55px;
+}
+.home-title{
+    color:#304CFD;
+    font-size: 45px;
+}
